@@ -1,7 +1,6 @@
 permalinks: title
-baseurl: 
 title: Scripting the MP3 Library with Python
-exclude: [ "samples", "rip"]
+exclude: [ "samples"]
 map:
  - title: Home
    path: /
