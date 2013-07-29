@@ -1,0 +1,9 @@
+permalinks: title
+baseurl: 
+title: Scripting the MP3 Library with Python
+exclude: [ "samples", "rip"]
+map:
+ - title: Home
+   path: /
+   caption: title
+
